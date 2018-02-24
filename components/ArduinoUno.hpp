@@ -1,6 +1,7 @@
 /* microflo_component yaml
 name: ArduinoUno
 description: Convenient definition of pins available on Arduino Uno
+icon: "microchip"
 inports:
   in:
     type: all

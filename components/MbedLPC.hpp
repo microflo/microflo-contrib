@@ -1,6 +1,7 @@
 /* microflo_component yaml
 name: MbedLPC
 description: Convenient definition of pins available on Mbed LPC1768
+icon: "microchip"
 inports:
   in:
     type: bang

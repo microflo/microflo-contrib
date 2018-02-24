@@ -1,6 +1,7 @@
 /* microflo_component yaml
 name: ToggleAnimation
 description: "Animate between two states; one value for high, another for low"
+icon: "film"
 inports:
   clock:
     type: integer
